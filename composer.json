@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Addrexx_AddressValidation",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL-3.0)",
+    "homepage": "",
+    "description": "Autocomplete and validate customer information including names and addresses.",
+    "authors": [
+    {
+        "name": "Joseph De La Cruz",
+        "email": "info@addrexx.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Addrexx_Frontend>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Addrexx_Frontend>
+    </modules>
+	<modules>
+	<Addrexx_Backend>
+		<active>true</active>
+		<codePool>local</codePool>
+	</Addrexx_Backend>
+    </modules>
+</config>
